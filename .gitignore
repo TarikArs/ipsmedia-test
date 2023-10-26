@@ -1,3 +1,13 @@
-*
-!data/
-!.gitignore
+/vendor
+/node_modules
+.env
+.env.*
+/storage
+/public/hot
+/public/storage
+/bootstrap/cache
+.phpunit.result.cache
+/logs
+/database/testing
+Homestead.yaml
+Homestead.json
